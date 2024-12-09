@@ -3,7 +3,7 @@ const { ethers } = require("ethers");
 
 const app = express();
 
-// Replace with the contract address and ABI
+
 const CONTRACT_ADDRESS = "0x68E31543733870377cAb3Ad4B811cecA71e7E6f8";
 const CONTRACT_ABI = [
   {
